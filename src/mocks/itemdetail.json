@@ -1,0 +1,140 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "title": "Build Trust",
+      "count": 3,
+      "content": "간결하고 정직한 디자인으로 나에 대한 신뢰감을 전달해 보세요.",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/Build Trust/image01.jpg",
+        "/img/Build Trust/image02.jpg",
+        "/img/Build Trust/image03.jpg",
+        "/img/Build Trust/image04.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hello Children!",
+      "count": 3,
+      "content": "알록달록한 도형과 자유로운 글자로 당신의 이야기를 담아보세요",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/Hello Children!/image01.jpg",
+        "/img/Hello Children!/image02.jpg",
+        "/img/Hello Children!/image03.jpg",
+        "/img/Hello Children!/image04.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "in스타강사",
+      "count": 3,
+      "content": "자신의 프로필을 깔끔하고 눈에 띄게 표현보세요.",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/in스타강사/image01.jpg",
+        "/img/in스타강사/image02.jpg",
+        "/img/in스타강사/image03.jpg",
+        "/img/in스타강사/image04.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "OPM COMPANY",
+      "count": 3,
+      "content": "단정한 기본 도형을 사용한 레이아웃으로 신뢰감을 전달합니다",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/OPM COMPANY/image01.jpg",
+        "/img/OPM COMPANY/image02.jpg",
+        "/img/OPM COMPANY/image03.jpg",
+        "/img/OPM COMPANY/image04.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Researcher",
+      "count": 3,
+      "content": "연구 관련 직군 등에서 연상되는 컬러와 아이콘을 배치하여 심플함을 강조합니다",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/Researcher/image01.jpg",
+        "/img/Researcher/image02.jpg",
+        "/img/Researcher/image03.jpg",
+        "/img/Researcher/image04.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "굿 컴퍼니",
+      "count": 3,
+      "content": "기본 도형과 이니셜을 사용하여 누구나 손쉽게 사용할 수 있는 레이아웃입니다.",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/굿 컴퍼니/image01.jpg",
+        "/img/굿 컴퍼니/image02.jpg",
+        "/img/굿 컴퍼니/image03.jpg",
+        "/img/굿 컴퍼니/image04.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "비장의 카드",
+      "count": 3,
+      "content": "유니크한 디자인으로 금융업종에서 사용해 보세요. 유쾌함을 동시에 전달할 수 있을 거예요",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/비장의 카드/image01.jpg",
+        "/img/비장의 카드/image02.jpg",
+        "/img/비장의 카드/image03.jpg",
+        "/img/비장의 카드/image04.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "창",
+      "count": 3,
+      "content": "창을 통해 바라본 새로운 시각으로 더 좋은 집과 더 좋은 풍경을 만나보세요",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/창/image01.jpg",
+        "/img/창/image02.jpg",
+        "/img/창/image03.jpg",
+        "/img/창/image04.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "창가 자리 주세요",
+      "count": 4,
+      "content": "비행기 창문 모양에 비치는 각국의 일러스트레이션을 만나보세요.",
+      "category": "정사각사이즈 명함",
+      "option": "소프트 / 직각 모서리",
+      "price": 2900,
+      "item": [
+        "/img/창가 자리 주세요/image01.jpg",
+        "/img/창가 자리 주세요/image02.jpg",
+        "/img/창가 자리 주세요/image03.jpg",
+        "/img/창가 자리 주세요/image04.jpg",
+        "/img/창가 자리 주세요/image05.jpg"
+      ]
+    }
+  ]
+}
